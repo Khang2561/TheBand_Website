@@ -1,4 +1,0 @@
-D:\web\the bank\obj\Debug\net7.0\the bank.GeneratedMSBuildEditorConfig.editorconfig
-D:\web\the bank\obj\Debug\net7.0\the bank.AssemblyInfoInputs.cache
-D:\web\the bank\obj\Debug\net7.0\the bank.AssemblyInfo.cs
-D:\web\the bank\obj\Debug\net7.0\the bank.csproj.CoreCompileInputs.cache
