@@ -516,6 +516,38 @@ html{
 
 /*end contact form*/
 
+/*footer start*/
+footer{
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    display: block;
+    margin-top: 150px;
+}
+footer .logo-band{
+    height: 100px;
+    width: 100px;
+    margin-top: 40px;
+   
+    
+}
+.logo-contact-under-logo{
+    display: block;
+    
+}
+
+.logo-contact-under-logo a img {
+    width: 20px;
+}
+.contain-footer{
+    color: white;
+    width: 50%;
+    margin-top: 40px;
+    margin-left: 300px;
+}
+
+/*footer end*/
+
 @keyframes modalFadeIn{
     from{
         opacity: 0;
