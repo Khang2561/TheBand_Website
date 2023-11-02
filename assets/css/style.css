@@ -71,6 +71,7 @@ html{
     display: block;
     content: "";
     background-color:white;
+    overflow: hidden;
 }
 
 /*create header taskbar*/
@@ -229,10 +230,13 @@ html{
 
 .content-section{
     width: 800px;
+    max-width:100%;
     margin-left: auto;/*center*/
     margin-right: auto;
     padding: 64px 16px;
     position: relative;
+    padding-left: 16px;
+    padding-right: 16px;
 }
 
 .content-section .section-heading{
@@ -544,9 +548,17 @@ footer .logo-band{
     width: 50%;
     margin-top: 40px;
     margin-left: 300px;
+    margin-left: 0px;
 }
 
 /*footer end*/
+
+/*media queries start*/
+@media(max-width: 800px){/*chỉ chạy khi điều kiện dúng tứng là 0-800*/
+
+}
+/*media queries end*/
+
 
 @keyframes modalFadeIn{
     from{
